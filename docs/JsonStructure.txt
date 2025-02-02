@@ -1,0 +1,29 @@
+JSON structure:
+
+register:
+{
+  "name": "",
+  "rol": "",
+  "password": "",
+  "email": ""
+}
+
+login:
+{
+  "name": "",
+  "password": ""
+}
+
+put:
+{
+  "title": "",
+  "description": "",
+  "status": ""
+}
+
+create:
+assuming that the status starts at Pendiente
+{
+	"title": "",
+	"description": ""
+}
